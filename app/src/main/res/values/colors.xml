@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="gray">#cccccc</color>
+
+    <color name="action_bar">#e66b1a</color>
+    <color name="action_bar_back_press">#a05c31</color>
+
+    <color name="bg_fragment">#6666cc</color>
+    <!--<color name="bg_fragment">#be77ff</color> -->
+    <color name="bg_label_bar">#0033c4</color>
+    <color name="bg_bottom_menu_normal">#E66B1A</color>
+    <color name="bg_bottom_menu_selected">#33ff00</color>
+    <color name="bg_button_normal">#6f9191</color>
+
+    <color name="bg_expandable_item_normal">#ffffcc</color>
+    <color name="bg_expandable_item_normal_child">#ccffcc</color>
+    <color name="bg_expandable_item_click">#ffff66</color>
+
+    <!--普通按钮颜色-->
+    <color name="bg_btn_normal">#ec6149</color>
+    <color name="bg_btn_press">#ffcc66</color>
+    <color name="bg_btn_pickcode_normal">#ffffff</color>
+    <color name="bg_btn_pickcode_press">#ffcc66</color>
+
+    <!--支付界面字体颜色-->
+    <color name="pay_money_back">#43e332</color>
+    <color name="pay_bg">#c16c27</color>
+    <color name="qrcode_bg">#a05c31</color>
+    <color name="qrcode_bg_border">#dd9f47</color>
+    <color name="ad_color">#f8d44d</color>
+
+    <color name="show_pick_code">#f4970c</color>
+    <color name="show_pick_code_center">#99f4970c</color>
+    <color name="bg_pick_code">#c9a28a</color>
+
+    <!--产品列表界面颜色-->
+    <color name="product_price">#ebb54f</color>
+    <color name="product_name">#f8d44d</color>
+
+    <!--配置浓度界面字体颜色-->
+    <color name="concentration_text_xlarge">#ffb862</color>
+    <color name="concentration_text_large">#ffffff</color>
+    <color name="concentration_text_small">#e9a457</color>
+    <color name="concentration_seek_bar_empty">#ffb862</color>
+    <color name="concentration_seek_bar_unempty">#a05c31</color>
+
+    <!--制作界面-->
+    <color name="making_remain_time">#be6b43</color>
+    <color name="making_progress_bar_reach">#c37837</color>
+    <color name="making_progress_bar_unreach">#7b4b23</color>
+
+    <color name="new_background">#332927</color>
+    <color name="common_text_color">#FFFFFF</color>
+    <color name="common_kuang">#EB380C</color>
+</resources>
